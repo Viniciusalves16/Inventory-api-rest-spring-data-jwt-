@@ -12,11 +12,7 @@ Spring Data: Framework para acesso a dados em diferentes bancos de dados, inclui
 Java 17: Versão mais recente da linguagem de programação Java, com novos recursos e melhorias de desempenho.
 Funcionalidades:
 
-Cadastro, consulta, atualização e exclusão de produtos.
-Controle de estoque com alertas de nível mínimo e máximo.
-Gerenciamento de fornecedores e clientes.
-Realização de vendas e movimentações de estoque.
-Emissão de relatórios de vendas e estoque.
+Cadastro, consulta, exclusão de produtos.
 Autenticação e autorização de usuários com JWT.
 Tecnologias:
 
